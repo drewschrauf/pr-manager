@@ -1,0 +1,13 @@
+{
+  "version": "2.0",
+  "app_name": "pr-manager",
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api",
+      "environment_variables": {
+        "GITHUB_SECRET": "",
+        "GITHUB_TOKEN": ""
+      }
+    }
+  }
+}
